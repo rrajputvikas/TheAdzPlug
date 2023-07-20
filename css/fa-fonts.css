@@ -1,0 +1,155 @@
+.fa-classic,
+.fa-regular,
+.fa-solid,
+.fab,
+.fas {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: var(--fa-display, inline-block);
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+}
+.fa-classic,
+.fa-regular,
+.fa-solid,
+.fas {
+  font-family: "Font Awesome 6 Free";
+}
+.fab {
+  font-family: "Font Awesome 6 Brands";
+}
+@font-face {
+  font-family: "Font Awesome 6 Brands";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(https://ka-f.fontawesome.com/releases/v6.4.0/webfonts/free-fa-brands-400.woff2)
+      format("woff2"),
+    url(https://ka-f.fontawesome.com/releases/v6.4.0/webfonts/free-fa-brands-400.ttf)
+      format("truetype");
+}
+.fa-google:before {
+  content: "\f1a0";
+}
+.fa.fa-youtube-square {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa.fa-youtube-square:before {
+  content: "\f431";
+}
+.fa.fa-youtube {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa.fa-youtube-play {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa.fa-youtube-play:before {
+  content: "\f167";
+}
+.fa.fa-facebook,
+.fa.fa-twitter {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa.fa-facebook:before {
+  content: "\f39e";
+}
+.fa.fa-facebook-f {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa.fa-facebook-f:before {
+  content: "\f39e";
+}
+.fa.fa-twitter-square {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa.fa-twitter-square:before {
+  content: "\f081";
+}
+.fa.fa-linkedin-square {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa.fa-linkedin-square:before {
+  content: "\f08c";
+}
+.fa.fa-linkedin {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa.fa-linkedin:before {
+  content: "\f0e1";
+}
+.fa-linkedin-in:before {
+  content: "\f0e1";
+}
+.fa.fa-instagram {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa-location-dot:before,
+.fa-map-marker-alt:before {
+  content: "\f3c5";
+}
+
+.fa-phone-square-alt:before,
+.fa-square-phone-flip:before {
+  content: "\f87b";
+}
+.fa-phone-alt:before,
+.fa-phone-flip:before {
+  content: "\f879";
+}
+.fa-phone:before {
+  content: "\f095";
+}
+.fa-phone-volume:before,
+.fa-volume-control-phone:before {
+  content: "\f2a0";
+}
+.fa-phone-slash:before {
+  content: "\f3dd";
+}
+.fa-phone-square:before,
+.fa-square-phone:before {
+  content: "\f098";
+}
+
+.fa.fa-envelope-o {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 400;
+}
+.fa.fa-envelope-o:before {
+  content: "\f0e0";
+}
+.fa.fa-envelope-open-o {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 400;
+}
+.fa.fa-envelope-open-o:before {
+  content: "\f2b6";
+}
+.fa-envelopes-bulk:before,
+.fa-mail-bulk:before {
+  content: "\f674";
+}
+.fa-envelope-open:before {
+  content: "\f2b6";
+}
+@font-face {
+  font-family: "Font Awesome 6 Free";
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url(https://ka-f.fontawesome.com/releases/v6.4.0/webfonts/free-fa-solid-900.woff2)
+      format("woff2"),
+    url(https://ka-f.fontawesome.com/releases/v6.4.0/webfonts/free-fa-solid-900.ttf)
+      format("truetype");
+}
